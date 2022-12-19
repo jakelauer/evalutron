@@ -47,6 +47,6 @@
     "electron": "^21.2.3",
     "electron-builder": "^23.6.0",
     "electronmon": "^2.0.2",
-    "wait-on": "^6.0.1"
+    "wait-on": "^7.0.1"
   }
 }
